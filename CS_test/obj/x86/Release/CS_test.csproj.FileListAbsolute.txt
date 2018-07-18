@@ -1,0 +1,4 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_test\bin\Release\CS_test.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_test\bin\Release\CS_test.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_test\obj\x86\Release\CS_test.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_test\obj\x86\Release\CS_test.pdb
