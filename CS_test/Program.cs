@@ -31,7 +31,7 @@ namespace CS_test
             A a = new A(100, 200);
             A b;
             System.Console.Write(a.m_inta + "\t" + a.m_intb + "\n");
-            //為初始化b所以不能使用 System.Console.Write(b.m_inta + "\t" + b.m_intb + "\n");
+            //未初始化b所以不能使用 System.Console.Write(b.m_inta + "\t" + b.m_intb + "\n");
             System.Console.Write("---------------\n");
             b = a;
             System.Console.Write(a.m_inta + "\t" + a.m_intb + "\n");
